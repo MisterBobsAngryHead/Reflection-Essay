@@ -1,3 +1,7 @@
+###### Rich Price
+###### CSU Senior Review Essay
+###### 2/1/25
+
 # Discuss one challenge you overcame during your academic development. 
 ## What was the challenge, was it technical, nontechnical, or both, and how did you overcome it?
 
